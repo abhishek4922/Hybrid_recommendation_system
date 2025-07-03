@@ -3,5 +3,3 @@ numpy
 setuptools
 google-cloud-storage
 pyyaml
-
-

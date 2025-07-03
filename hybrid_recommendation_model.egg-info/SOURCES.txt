@@ -1,0 +1,16 @@
+setup.py
+config/__init__.py
+hybrid_recommendation_model.egg-info/PKG-INFO
+hybrid_recommendation_model.egg-info/SOURCES.txt
+hybrid_recommendation_model.egg-info/dependency_links.txt
+hybrid_recommendation_model.egg-info/requires.txt
+hybrid_recommendation_model.egg-info/top_level.txt
+logs/__init__.py
+pipeline/__init__.py
+pipeline/prediction_pipeline.py
+src/__init__.py
+src/dataingestion.py
+src/logger.py
+utils/__init__.py
+utils/common_function.py
+utils/helpers.py

@@ -1,0 +1,54 @@
+2025-07-03 14:11:03,754 - INFO - Succesfully read the YAML file
+2025-07-03 14:11:46,675 - INFO - Succesfully read the YAML file
+2025-07-03 14:11:46,676 - INFO - data ingestion started ....
+2025-07-03 14:11:46,676 - INFO - starting the data ingestion process
+2025-07-03 14:12:39,356 - INFO - download the remaining files as well
+2025-07-03 14:14:39,891 - ERROR - error while downloading the data from gcp
+2025-07-03 14:14:39,892 - ERROR - CustomException:Error in C:\Users\abhis\Desktop\Projects\web\proj\hybridrecommender\src\dataingestion.py , line 36 : Failed to download data
+2025-07-03 14:14:39,892 - INFO - data ingesion done
+2025-07-03 14:18:56,325 - INFO - Succesfully read the YAML file
+2025-07-03 14:18:56,328 - INFO - data ingestion started ....
+2025-07-03 14:18:56,328 - INFO - starting the data ingestion process
+2025-07-03 14:19:40,094 - INFO - download the remaining files as well
+2025-07-03 14:24:50,117 - ERROR - error while downloading the data from gcp
+2025-07-03 14:24:50,118 - ERROR - CustomException:Error in C:\Users\abhis\Desktop\Projects\web\proj\hybridrecommender\src\dataingestion.py , line 36 : Failed to download data
+2025-07-03 14:24:50,118 - INFO - data ingesion done
+2025-07-03 14:32:13,082 - INFO - Succesfully read the YAML file
+2025-07-03 14:32:13,083 - INFO - data ingestion started ....
+2025-07-03 14:32:13,083 - INFO - starting the data ingestion process
+2025-07-03 14:33:10,666 - INFO - download the remaining files as well
+2025-07-03 14:42:37,935 - ERROR - error while downloading the data from gcp
+2025-07-03 14:42:37,935 - ERROR - CustomException:Error in C:\Users\abhis\Desktop\Projects\web\proj\hybridrecommender\src\dataingestion.py , line 36 : Failed to download data
+2025-07-03 14:42:37,935 - INFO - data ingesion done
+2025-07-03 14:52:05,422 - INFO - Succesfully read the YAML file
+2025-07-03 14:52:05,423 - INFO - data ingestion started ....
+2025-07-03 14:52:05,423 - INFO - starting the data ingestion process
+2025-07-03 14:52:31,165 - INFO - download the remaining files as well
+2025-07-03 14:52:37,954 - INFO - download the remaining files as well
+2025-07-03 14:58:43,130 - ERROR - error while downloading the data from gcp
+2025-07-03 14:58:43,130 - ERROR - CustomException:Error in C:\Users\abhis\Desktop\Projects\web\proj\hybridrecommender\src\dataingestion.py , line 36 : Failed to download data
+2025-07-03 14:58:43,130 - INFO - data ingesion done
+2025-07-03 15:02:52,134 - INFO - Succesfully read the YAML file
+2025-07-03 15:02:52,135 - INFO - Data Ingestion Started....
+2025-07-03 15:02:52,136 - INFO - Starting Data Ingestion Process....
+2025-07-03 15:03:08,664 - INFO - Downloading Smaller Files ie anime and anime_with synopsis
+2025-07-03 15:03:23,623 - INFO - Downloading Smaller Files ie anime and anime_with synopsis
+2025-07-03 15:06:29,977 - ERROR - Error while downloading data from GCP
+2025-07-03 15:06:29,977 - ERROR - CustomException : Error in C:\Users\abhis\Desktop\Projects\web\proj\hybridrecommender\src\dataingestion.py , line 99 : Failed to download data
+2025-07-03 15:06:29,977 - INFO - Data Ingestion DONE...
+2025-07-03 15:17:20,087 - INFO - Succesfully read the YAML file
+2025-07-03 15:17:20,088 - INFO - Data Ingestion Started....
+2025-07-03 15:17:20,088 - INFO - Starting Data Ingestion Process....
+2025-07-03 15:18:47,735 - INFO - Downloading Smaller Files ie anime and anime_with synopsis
+2025-07-03 15:19:56,825 - INFO - Downloading Smaller Files ie anime and anime_with synopsis
+2025-07-03 15:35:28,235 - ERROR - Error while downloading data from GCP
+2025-07-03 15:35:28,382 - ERROR - CustomException : Error in C:\Users\abhis\Desktop\Projects\web\proj\hybridrecommender\src\dataingestion.py , line 99 : Failed to download data
+2025-07-03 15:35:28,382 - INFO - Data Ingestion DONE...
+2025-07-03 15:37:49,595 - INFO - Succesfully read the YAML file
+2025-07-03 15:37:49,595 - INFO - Data Ingestion Started....
+2025-07-03 15:37:49,595 - INFO - Starting Data Ingestion Process....
+2025-07-03 15:39:03,925 - INFO - Downloading Smaller Files ie anime and anime_with synopsis
+2025-07-03 15:39:47,953 - INFO - Downloading Smaller Files ie anime and anime_with synopsis
+2025-07-03 16:19:48,421 - INFO - Large file detected Only downloading 5M rows
+2025-07-03 16:19:48,576 - INFO - Data Ingestion Completed...
+2025-07-03 16:19:48,577 - INFO - Data Ingestion DONE...
